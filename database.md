@@ -148,7 +148,7 @@
 
 ### 트랜잭션의 상태
 
-![transaction-status](C:\Users\ymink\OneDrive\바탕 화면\transaction-status.png)
+![transaction-status](images\transaction-status.png)
 
 * Active  : 트랜잭션이 실행 중에 있는 상태, 연산들이 정상적으로 실행 중인 상태
 * Failed : 트랜잭션 실행에 오류가 발생하여 중단된 상태
@@ -243,7 +243,10 @@
 
 참고 : 
 https://gyoogle.dev/blog/computer-science/data-base/Key.html
+
 https://github.com/WeareSoft/tech-interview/blob/master/contents/db.md
+
 https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Database
+
 https://91ms.tistory.com/2?category=711086
 
