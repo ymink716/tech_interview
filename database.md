@@ -148,7 +148,7 @@
 
 ### 트랜잭션의 상태
 
-![transaction-status](images\transaction-status.png)
+![transaction-status](./images\transaction-status.png)
 
 * Active  : 트랜잭션이 실행 중에 있는 상태, 연산들이 정상적으로 실행 중인 상태
 * Failed : 트랜잭션 실행에 오류가 발생하여 중단된 상태
